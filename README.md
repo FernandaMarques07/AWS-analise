@@ -46,8 +46,8 @@ A utilização integrada dos serviços Amazon S3, Amazon EC2 e Amazon RDS permit
 ## Anexos
 
 - [Planilha Excel](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/fernanda_marques_aluno_cps_sp_gov_br/IQCvPySOgI4aT4C_3cEcwJP8AcC-PUAyhQSj_PdDaRhH8Fc?e=ka86AL&nav=MTVfezI0Rjk4MzA2LTFGRDQtNEZDOS1CMjg1LUY4QUJGQzNDOEVEOX0)
-- Print da planilha 
-
+  
+![planilha](planilha.png)
+---
 **Assinatura do Responsável pelo Projeto:**  
-
-Fernanda Marques
+  Fernanda Marques
